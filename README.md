@@ -2,11 +2,11 @@
 
 ### Minha página do Github
 
--- [ ] C++
--- [ ] Python
--- [ ] Javascript
--- [ ] HTML5
--- [ ] CSS
+*  C++
+*  Python
+*  Javascript
+*  HTML5
+*  CSS
 <!--
 **MikeSimon123/MikeSimon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
