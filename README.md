@@ -1,12 +1,12 @@
-## Fala galera!!! 👋
+# Fala galera!!! 👋
 
-### Minha página do Github
+## Minha página do Github
 
+### Linguagens que sei usar
 *  C++
 *  Python
 *  Javascript
-*  HTML5
-*  CSS
+
 <!--
 **MikeSimon123/MikeSimon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
