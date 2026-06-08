@@ -2,10 +2,12 @@
 
 ## Minha página do Github
 
-### Linguagens que sei usar
+### Linguagens que sei usar:
 *  C++
 *  Python
 *  Javascript
+### Coisas em que venho trabalhando:
+* Jogo com C++ e OPENGL
 
 <!--
 **MikeSimon123/MikeSimon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
